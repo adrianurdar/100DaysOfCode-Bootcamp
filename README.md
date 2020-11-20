@@ -3,7 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate
-* [Day 15 - Coffee Machine](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-016)
+* [Day 15 - Coffee Machine](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-015)
 
 ### Beginner
 * [Day 14 - Higher Lower Game](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-014)
