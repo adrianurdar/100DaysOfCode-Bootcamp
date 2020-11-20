@@ -2,6 +2,10 @@
 All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
+### Intermediate
+* [Day 16](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-016)
+
+### Beginner
 * [Day 14 - Higher Lower Game](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-014)
 * Day 13 - Debugging
 * [Day 12 - Guess the Number Game](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-012/guess-the-number.py)
