@@ -1,5 +1,5 @@
 # Coffee Machine Program
-## Day 16 - Intermediate - \#100DaysOfCode
+## Day 15 - Intermediate - \#100DaysOfCode
 
 *As a user, I want to use the coffee machine so that I can order my coffee drink.*
 
