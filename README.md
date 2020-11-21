@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate
+* [Day 17 - Quiz](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-017)
 * [Day 16 - Coffee Machine OOP](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-016)
 * [Day 15 - Coffee Machine](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-015)
 
