@@ -1,7 +1,7 @@
 # Quiz
-## Day 16 - Intermediate - \#100DaysOfCode
+## Day 17 - Intermediate - \#100DaysOfCode
 
-*As a user, I want to play a quix game so that I can test my knowledge.*
+*As a user, I want to play a quiz game so that I can test my knowledge.*
 
 **To do:**
 * Implement a quiz
