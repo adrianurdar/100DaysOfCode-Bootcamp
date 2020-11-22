@@ -12,5 +12,7 @@
 3. Each dot should be a random color
 
 **Design:**
-* ![Drawing mid-execution](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-018/Screen%20Shot%202020-11-22%20at%209.09.01%20PM.png "Drawing mid-execution")
-* ![Drawing finished](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-018/Screen%20Shot%202020-11-22%20at%209.09.14%20PM.png "Drawing finished")
+* Drawing mid-execution
+![Drawing mid-execution](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-018/Screen%20Shot%202020-11-22%20at%209.09.01%20PM.png "Drawing mid-execution")
+* Drawing finished 
+![Drawing finished](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-018/Screen%20Shot%202020-11-22%20at%209.09.14%20PM.png "Drawing finished")
