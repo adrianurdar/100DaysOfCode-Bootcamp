@@ -1,4 +1,4 @@
-# Quiz
+# Quiz Project
 ## Day 18 - Intermediate - \#100DaysOfCode
 
 *As a user, I want to automatically draw a painting similar to Damien Hirst's so that I can reduce the time spent painting.*
