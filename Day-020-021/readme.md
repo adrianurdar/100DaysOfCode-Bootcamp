@@ -1,6 +1,9 @@
 # The Snake Game Project
 ## Day 20 & 21 - Intermediate - \#100DaysOfCode
 
+**To do:**
+* Create a functional snake game
+
 **Acceptance criteria:**
 * Set title and screen
 * Create the snake body
