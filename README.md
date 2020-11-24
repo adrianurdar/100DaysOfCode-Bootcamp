@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate
+* [Day 21 - The Pong Game](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-022)
 * [Day 20 - The Snake Game Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-020-021/Snake)
 * Day 19 - [The Etch-A-Sketch Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-019/Etch-A-Sketch) and [Turtle Race Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-019/Turtle-Race)
 * [Day 18 - The Hirst Painting Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-018)
