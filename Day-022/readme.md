@@ -15,3 +15,7 @@ paddle up and down by 20 px.
 * **Detect collision with paddle.** When the ball hits one of the paddles it should bounce.
 * **Score and scoreboard.** When one of the player scores, his score should increase. Display the score on top of the 
 screen.
+
+**Screenshot:**
+
+![Pong Game](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-022/Screen%20Shot%202020-11-24%20at%205.32.27%20PM.png "Pong Game")
