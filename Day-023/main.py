@@ -7,6 +7,7 @@ import random
 # Screen setup
 screen = Screen()
 screen.setup(width=600, height=600)
+screen.title("Turtle Crossing")
 screen.tracer(0)
 
 # Create the player
