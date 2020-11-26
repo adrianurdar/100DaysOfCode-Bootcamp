@@ -22,6 +22,7 @@ turtle.shape(image)
 
 # Keep track of the correct guesses
 correct_guesses = []
+states_left = []
 
 data = pandas.read_csv("50_states.csv")
 
@@ -32,19 +33,37 @@ while game_is_on:
     answer_state = screen.textinput(title=f"{len(correct_guesses)}/50 States Correct",
                                     prompt="What's another state name?")
 
-    # If user types "off" end the game
-    if answer_state == "off":
-        game_is_on = False
-        ans = State()
-        ans.color("red")
-        ans.goto(0, 0)
-        ans.write(f"You've scored: {len(correct_guesses)} out of 50.", align="center", font=("Courier", 40, "bold"))
-
     # Convert the guess to Title case
     try:
         answer_state = answer_state.title()
     except AttributeError:
         pass
+
+    # If user types "off" end the game, show him all the states he didn't guess and also place them in a CSV
+    if answer_state == "Off":
+        game_is_on = False
+
+        # Put all states he didn't guess in a CSV
+        for state in data.values:
+            if state[0] not in correct_guesses:
+                states_left.append(state[0])
+
+        # Write the remaining states with red on map
+        for state in states_left:
+            ans = State()
+            ans.hideturtle()
+            ans.color("red")
+            x_cor = int(data.x[data.state == state])
+            y_cor = int(data.y[data.state == state])
+            ans.goto(x_cor, y_cor)
+            ans.write_answer(state)
+
+        data_dict = {
+            "States Left": states_left
+        }
+
+        df = pandas.DataFrame(data_dict)
+        df.to_csv("result.csv")
 
     # Check if the guess is among the 50 states
     if answer_state in data.values:

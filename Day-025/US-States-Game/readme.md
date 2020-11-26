@@ -10,3 +10,4 @@
 * If the user guessed correctly, the name of the state should be placed on the map at the corresponding coordinates.
 * If the user guessed wrong, nothing happens and the input box should prompt him for another answer.
 * In the title of the input box keep track of the number of right guesses (e.g. `4/50`)
+* If user types `off` show on the map and in a CSV file the remaining states.
