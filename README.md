@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate
+* Day 25 - [The Squirrel Census](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-025/Squirrel-Census) and [U.S. States Game]()
 * Day 24 - [Improve Snake Game](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-024/Snake) and [Mail Merge](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-024/Mail-Merge)
 * [Day 23 - The Turtle Crossing Game](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-023)
 * [Day 22 - The Pong Game](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-022)
