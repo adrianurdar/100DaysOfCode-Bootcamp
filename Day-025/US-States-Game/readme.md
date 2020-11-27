@@ -13,4 +13,4 @@
 * If user types `off` show on the map and in a CSV file the remaining states.
 
 **Log:**
-*2020-11-27: Use list comprehension to optimize the code
+* 2020-11-27: Use list comprehension to optimize the code
