@@ -44,9 +44,7 @@ while game_is_on:
         game_is_on = False
 
         # Put all states he didn't guess in a CSV
-        for state in data.values:
-            if state[0] not in correct_guesses:
-                states_left.append(state[0])
+        states_left = [state[0] for state in data.values if state[0] not in correct_guesses]
 
         # Write the remaining states with red on map
         for state in states_left:
