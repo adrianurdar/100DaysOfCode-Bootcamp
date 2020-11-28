@@ -14,6 +14,6 @@ After 4 work sessions, there is a 20 min longer break.
 
 **Screenshots:**
 
-![Initial state]()
+![Initial state](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-028/Screen%20Shot%202020-11-28%20at%209.57.11%20PM.png)
 
-![Executing]()
+![Executing](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-028/Screen%20Shot%202020-11-28%20at%209.57.29%20PM.png)
