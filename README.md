@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate
+* [Day 28 - Pomodoro Clock](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-028)
 * [Day 26 - The NATO Alphabet Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-026)
 * Day 25 - [The Squirrel Census](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-025/Squirrel-Census), [U.S. States Game](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-025/US-States-Game), and [Romanian Counties Game](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-025/Romanian-Counties-Game)
 * Day 24 - [Improve Snake Game](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-024/Snake) and [Mail Merge](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-024/Mail-Merge)
