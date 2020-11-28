@@ -11,6 +11,8 @@
 
 **Screenshots:**
 
-![Before]("Before coversion")
+![Before](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-027/Screen%20Shot%202020-11-28%20at%203.17.42%20PM.png "Before coversion")
 
-![After]("After conversion")
+![10 Miles to Km](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-027/Screen%20Shot%202020-11-28%20at%203.17.58%20PM.png "10 Miles to Km")
+
+![60 Miles to Km](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-027/Screen%20Shot%202020-11-28%20at%203.18.10%20PM.png "60 Miles to Km")
