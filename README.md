@@ -3,7 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate+
-* [Day 32 - Birthday Wisher (Extra-hard)]()
+* [Day 32 - Birthday Wisher (Extra-hard)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-032)
 
 ### Intermediate
 * [Day 31 - Flash Card App Capstone Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-031)
