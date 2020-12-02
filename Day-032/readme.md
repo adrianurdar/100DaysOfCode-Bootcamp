@@ -16,6 +16,4 @@ name from birthdays.csv
 
 **Screenshots:**
 
-![]()
-
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-032/Screen_Shot_2020-12-02_at_1_26_59_PM.png)
