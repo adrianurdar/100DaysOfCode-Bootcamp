@@ -2,6 +2,9 @@
 All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
+### Intermediate+
+* [Day 32 - Birthday Wisher (Extra-hard)]()
+
 ### Intermediate
 * [Day 31 - Flash Card App Capstone Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-031)
 * Day 30 - [Exception Handling In The NATO Phonetic Alphabet Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-030/Exception-Handling-In-The-NATO-Phonetic-Alphabet-Project) and [Write, Read And Update JSON Data In The Password Manager](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-030/Write-Read-And-Update-JSON-Data-In-The-Password-Manager)
