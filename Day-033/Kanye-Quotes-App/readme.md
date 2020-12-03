@@ -11,6 +11,6 @@
 
 **Screenshots:**
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-033/Kanye-Quotes-App/Screen%20Shot%202020-12-03%20at%208.08.11%20AM.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-033/Kanye-Quotes-App/Screen%20Shot%202020-12-03%20at%208.08.23%20AM.png)
