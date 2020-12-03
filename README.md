@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate+
+* Day 33 - [Build a Kanye Quotes App using the Kanye Rest API](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-033/Kanye-Quotes-App)
 * [Day 32 - Birthday Wisher (Extra-hard)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-032)
 
 ### Intermediate
