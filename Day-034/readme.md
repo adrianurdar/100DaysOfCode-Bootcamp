@@ -19,10 +19,10 @@
 
 **Screenshots:**
 
-![Starting of the quiz]("Starting of the quiz")
+![Starting of the quiz](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-034/screenshots/Screen%20Shot%202020-12-04%20at%209.18.17%20AM.png "Starting of the quiz")
 
-![Correct answer]("Correct answer")
+![Correct answer](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-034/screenshots/Screen%20Shot%202020-12-04%20at%209.18.25%20AM.png "Correct answer")
 
-![Wrong answer]("Wrong answer")
+![Wrong answer](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-034/screenshots/Screen%20Shot%202020-12-04%20at%209.18.33%20AM.png "Wrong answer")
 
-![Final score]("Final score")
+![Final score](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-034/screenshots/Screen%20Shot%202020-12-04%20at%209.19.19%20AM.png "Final score")
