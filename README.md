@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate+
+* [Day 35 - Send SMS Project: Rain Alert](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-035)
 * [Day 34 - Improve the Quiz App into a GUI Quiz App](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-034)
 * Day 33 - [Build a Kanye Quotes App using the Kanye Rest API](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-033/Kanye-Quotes-App) and [ISS Overhead Notifier Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-033/ISS-Overhead-Notifier-Project)
 * [Day 32 - Birthday Wisher (Extra-hard)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-032)
