@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate+
+* [Day 37 - Habit Tracker](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-037)
 * [Day 36 - Stock Trading News Alert Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-036)
 * [Day 35 - Send SMS Project: Rain Alert](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-035)
 * [Day 34 - Improve the Quiz App into a GUI Quiz App](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-034)
