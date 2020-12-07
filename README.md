@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate+
+* [Day 38 - Workout Tracker Using Google Sheets](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-038)
 * [Day 37 - Habit Tracker](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-037)
 * [Day 36 - Stock Trading News Alert Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-036)
 * [Day 35 - Send SMS Project: Rain Alert](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-035)
