@@ -1,8 +1,8 @@
 import requests
 import datetime as dt
 
-USERNAME = "adrian"
-TOKEN = "*qqy*8hU6D&M8W9&u5Pj"
+USERNAME = os.environ.get("USERNAME")
+TOKEN = os.environ.get("TOKEN")
 PIXELA_ENDPOINT = "https://pixe.la/v1/users"
 
 headers = {
