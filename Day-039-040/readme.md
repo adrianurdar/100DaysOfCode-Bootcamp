@@ -1,5 +1,5 @@
 # Flight Deal Finder
-## Day 39 - Intermediate+ - \#100DaysOfCode
+## Day 39 & 40 - Intermediate+ - \#100DaysOfCode
 
 **To do:**
 * Create a Flight Deal Finder
