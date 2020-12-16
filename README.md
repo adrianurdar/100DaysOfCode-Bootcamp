@@ -3,8 +3,8 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate+
-* [Day 45 - Greatest Movies]()
-* Day 41-44 - Web Foundation (Intermediate HTML & CSS)
+* [Day 45 - Greatest Movies](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-045)
+* [Day 41-44 - Web Foundation (Intermediate HTML & CSS)](https://adiurdar.com)
 * [Day 39 & 40 - Flight Club](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-039-040)
 * [Day 38 - Workout Tracker Using Google Sheets](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-038)
 * [Day 37 - Habit Tracker](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-037)
