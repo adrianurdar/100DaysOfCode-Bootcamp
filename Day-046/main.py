@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import datetime
+import os
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from pprint import pprint
