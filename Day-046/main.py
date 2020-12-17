@@ -5,8 +5,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from pprint import pprint
 
-SPOTIFY_CLIENT_ID = "1d06a659db5a490eb02742366ab58a99"
-SPOTIFY_SECRET_KEY = "2fc412e39c484c60bb05f52dfa0914de"
+SPOTIFY_CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
+SPOTIFY_SECRET_KEY = os.environ.get("SPOTIFY_SECRET_KEY")
 SPOTIFY_REDIRECT_URI = "http://localhost:8888/callback/"
 SPOTIFY_ENDPOINT = f"https://api.spotify.com/v1/users/{SPOTIFY_CLIENT_ID}/playlists"
 
