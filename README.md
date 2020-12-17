@@ -3,7 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate+
-* [Day 45 - Musical Time Machine](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-046)
+* [Day 46 - Musical Time Machine](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-046)
 * [Day 45 - Greatest Movies](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-045)
 * [Day 41-44 - Personal Website](https://adiurdar.com)
 * [Day 39 & 40 - Flight Club](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-039-040)
