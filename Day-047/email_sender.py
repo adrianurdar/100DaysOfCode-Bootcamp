@@ -1,7 +1,8 @@
 import smtplib
+import os
 
-SENDER_EMAIL = "pythonappacc"
-SENDER_PWD = "6CvkqG1lloWxPie&hT#&"
+SENDER_EMAIL = os.environ.get("SENDER_EMAIL")
+SENDER_PWD = os.environ.get("SENDER_PWD")
 
 
 def send_email(message_to_send):
