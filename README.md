@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate+
+* [Day 47 - Automated Price Tracker](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-047)
 * [Day 46 - Automatically Create Spotify Playlists](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-046)
 * [Day 45 - Greatest Movies](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-045)
 * [Day 41-44 - Personal Website](https://adiurdar.com)
