@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate+
+* [Day 49 - Automated Job Applications on LinkedIn](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-049)
 * [Day 48 - Automated Game Playing Bot](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-048)
 * [Day 47 - Automated Price Tracker](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-047)
 * [Day 46 - Automatically Create Spotify Playlists](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-046)
