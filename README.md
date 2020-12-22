@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate+
+* [Day 50 - Auto Tinder Swiping Bot](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-050)
 * [Day 49 - Automated Job Applications on LinkedIn](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-049)
 * [Day 48 - Automated Game Playing Bot](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-048)
 * [Day 47 - Automated Price Tracker](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-047)
