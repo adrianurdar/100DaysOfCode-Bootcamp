@@ -6,7 +6,7 @@
 * Automate extraction of RE listings
 
 **Requirements:**
-* Use BeautifulSoup/Requests to scrape all the listings from Zillow.
+* Use BeautifulSoup/Requests to scrape all the listings from RE Listing Website.
 
 * Create a list of links for all the listings you scraped.
 
