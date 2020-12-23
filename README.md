@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate+
+* [Day 53 - Data Entry Job Automation | Capstone Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-053)
 * [Day 52 - Instagram Follower Bot](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-052)
 * [Day 51 - Internet Speed Twitter Complaint Bot](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-051)
 * [Day 50 - Auto Tinder Swiping Bot](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-050)
@@ -22,7 +23,7 @@ All the projects from 100DaysOfCode Bootcamp
 * [Day 32 - Birthday Wisher (Extra-hard)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-032)
 
 ### Intermediate
-* [Day 31 - Flash Card App Capstone Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-031)
+* [Day 31 - Flash Card App | Capstone Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-031)
 * Day 30 - [Exception Handling In The NATO Phonetic Alphabet Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-030/Exception-Handling-In-The-NATO-Phonetic-Alphabet-Project) and [Write, Read And Update JSON Data In The Password Manager](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-030/Write-Read-And-Update-JSON-Data-In-The-Password-Manager)
 * [Day 29 - Password Manager GUI Application](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-029)
 * [Day 28 - Pomodoro Clock GUI Application](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-028)
