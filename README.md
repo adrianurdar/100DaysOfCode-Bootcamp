@@ -3,6 +3,8 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate+
+* [Day 55 - The Higher or Lower URLs](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-055)
+* Day 54 - Introduction to Web Development with Flask
 * [Day 53 - Data Entry Job Automation | Capstone Project](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-053)
 * [Day 52 - Instagram Follower Bot](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-052)
 * [Day 51 - Internet Speed Twitter Complaint Bot](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-051)
