@@ -1,5 +1,5 @@
 # Blog Capstone Project (Part 1)
-## Days 57 - Intermediate+ - Advanced - \#100DaysOfCode
+## Days 57 - Intermediate+ - \#100DaysOfCode
 
 **To do:**
 * Create templates for a blog website
