@@ -2,6 +2,9 @@
 All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
+### Advanced
+* [Day 59 - Blog Capstone Project (Part 2)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-059)
+
 ### Intermediate+
 * [Day 58 - Web Foundation Bootstrap](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-058)
 * [Day 57 - Blog Capstone Project (Part 1)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-057)
