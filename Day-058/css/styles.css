@@ -1,0 +1,200 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+
+/* Headings */
+
+.big-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+/* Containers */
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+
+/* Sections */
+
+.colored-section {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+
+/* Download Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+
+/* Title Section */
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+  text-align: left;
+}
+
+
+/* Title Image */
+
+.title-image {
+  width: 20%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 20%;
+}
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+    width: 60%;
+  }
+}
+
+
+/* Features Section */
+
+#features {
+  position: relative;
+  z-index: 1;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+.fa-check-circle, .fa-bullseye, .fa-heart {
+  color: #ef8172;
+  font-size: 3rem;
+  padding-bottom: 3%;
+}
+
+.fa-check-circle:hover, .fa-bullseye:hover, .fa-heart:hover {
+  color: #ff4c68;
+}
+
+
+/* Testimonials Section */
+
+#testimonials {
+  background-color: #ef8172;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+
+/* Pricing Section */
+
+#pricing {
+  padding: 100px;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+
+/* CTA Section */
+
+.cta-button {
+  margin: 3% 1% 5%;
+}
+
+
+/* Footer Section */
+
+#footer {
+  background-color: #fff;
+}
+
+#footer a {
+  color: #212529;
+}
+
+#footer a:hover {
+  color: #ff4c68;
+}
+
+.footer-icons {
+  margin: 0 1% 2%;
+}
