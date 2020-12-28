@@ -18,7 +18,7 @@
         * Create the static and templates folders.
         * Move the files in the project to the correct folders (HTML files to templates and all folders to static).
         * Delete the mail folder. We're going to be coding up the functionality from scratch.
-        * Create a header.html and footer.html file and the all important main.py.
+        * Create a `header.html` and `footer.html` file and the all important `main.py`.
     
 * Step 2 - Get the home page to work
     * Use what you have learnt about Flask, get the home page to render when you go to http://localhost:5000 in your 
@@ -54,12 +54,12 @@
 
 **Screenshots:**
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-059/screenshots/screencapture-127-0-0-1-5000-2020-12-28-10_05_36.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-059/screenshots/screencapture-127-0-0-1-5000-about-2020-12-28-10_06_01.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-059/screenshots/screencapture-127-0-0-1-5000-contact-2020-12-28-10_06_17.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-059/screenshots/screencapture-127-0-0-1-5000-post-1-2020-12-28-10_06_31.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-059/screenshots/screencapture-127-0-0-1-5000-post-2-2020-12-28-10_06_49.png)
