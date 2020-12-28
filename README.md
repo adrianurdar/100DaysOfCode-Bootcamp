@@ -3,7 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Intermediate+
-* [Day 58 - Web Foundation Bootstrap]()
+* [Day 58 - Web Foundation Bootstrap](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-058)
 * [Day 57 - Blog Capstone Project (Part 1)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-057)
 * [Day 56 - Name Card Website Template](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-056)
 * [Day 55 - The Higher or Lower URLs](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-055)
