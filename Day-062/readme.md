@@ -29,3 +29,4 @@ needs to be appended to the end of the csv file. The data from each field need t
 
 **Screenshots:**
 
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-062/screenshots/app_review.gif)
