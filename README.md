@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Advanced
+* [Day 63 - Book Library Webapp](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-063)
 * [Day 62 - Coffee And Wifi Webapp](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-062)
 * Day 61 - Building Advanced Forms With Flask-WTForms
 * Day 60 - Making POST Requests With Flask and HTML Forms
