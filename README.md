@@ -7,11 +7,11 @@ All the projects from 100DaysOfCode Bootcamp
 * [Day 62 - Coffee And Wifi Webapp](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-062)
 * Day 61 - Building Advanced Forms With Flask-WTForms
 * Day 60 - Making POST Requests With Flask and HTML Forms
-* [Day 59 - Blog Capstone Project (Part 2)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-059)
+* [Day 59 - Blog Capstone Project (Part 2 - Adding Styling)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-059)
 
 ### Intermediate+
 * [Day 58 - Web Foundation Bootstrap](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-058)
-* [Day 57 - Blog Capstone Project (Part 1)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-057)
+* [Day 57 - Blog Capstone Project (Part 1 - Templating)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-057)
 * [Day 56 - Name Card Website Template](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-056)
 * [Day 55 - The Higher or Lower URLs](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-055)
 * Day 54 - Introduction to Web Development with Flask
