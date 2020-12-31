@@ -7,20 +7,17 @@
 **Requirements:**
 * Be Able to View Movie List Items
 
-![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-064/screenshots/view_movie_list.mov)
-
-* Be Able to Edit a Movie's Rating and Review
-
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-064/screenshots/view_movie_list.gif)
 
 * Be Able to Delete Movies from the Database
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-064/screenshots/delete.gif)
 
 * Be Able to Add New Movies Via the Add Page
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-064/screenshots/add_movie.gif)
 
+* Be Able to Edit a Movie's Rating and Review
 * Be Able to Sort and Rank the Movies By Rating
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-064/screenshots/sort_movies.gif)
