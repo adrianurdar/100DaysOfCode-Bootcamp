@@ -1,0 +1,6 @@
+Flask-Bootstrap
+flask-sqlalchemy
+Flask-WTF
+requests
+Flask
+WTForms
