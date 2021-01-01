@@ -26,4 +26,14 @@
   
 **Screenshots:**
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-068/screenshots/Screen%20Shot%202021-01-01%20at%2010.17.31%20PM.png)
+
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-068/screenshots/Screen%20Shot%202021-01-01%20at%2010.18.04%20PM.png)
+
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-068/screenshots/Screen%20Shot%202021-01-01%20at%2010.18.18%20PM.png)
+
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-068/screenshots/Screen%20Shot%202021-01-01%20at%2010.18.47%20PM.png)
+
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-068/screenshots/Screen%20Shot%202021-01-01%20at%2010.19.07%20PM.png)
+
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-068/screenshots/Screen%20Shot%202021-01-01%20at%2010.19.23%20PM.png)
