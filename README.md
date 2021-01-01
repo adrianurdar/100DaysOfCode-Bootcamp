@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Advanced
+* [Day 67 - Blog Capstone Project (Part 3 - RESTful Routing)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-067)
 * [Day 66 - Create a RESTful API](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-066)
 * Day 65 - Color Theory, Typography, UI, UX
 * [Day 64 - My Top 10 Movies Website](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-064)
