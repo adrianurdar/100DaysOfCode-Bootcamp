@@ -124,7 +124,7 @@ def update_price(cafe_id):
         return jsonify(error={"Not Found": "Sorry, a cafe with that id was not found."})
 
 
-# TODO: HTTP DELETE - Delete Record
+# HTTP DELETE - Delete Record
 @app.route("/report-closed/<int:cafe_id>", methods=["DELETE"])
 def report_closed(cafe_id):
     api_key = request.args.get("api_key")
