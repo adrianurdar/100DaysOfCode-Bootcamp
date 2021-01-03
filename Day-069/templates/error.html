@@ -1,0 +1,22 @@
+{% include "header.html" %}
+
+<!-- Page Header -->
+<header class="masthead" style="background-image: url('{{ url_for('static', filename='/img/home-bg.jpg') }}')">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+                <div class="site-heading">
+                    <h1>Error</h1>
+                    <span class="subheading">Error message</span>
+                    <a href="{{ url_for('get_all_posts') }}" >Return Home</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<hr>
+
+{% include "footer.html" %}
