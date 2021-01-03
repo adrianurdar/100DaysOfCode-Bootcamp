@@ -28,4 +28,4 @@
 
 **Demo:**
 
-* [](https://adrian-flask-blog.herokuapp.com/)
+* [https://adrian-flask-blog.herokuapp.com/](https://adrian-flask-blog.herokuapp.com/)
