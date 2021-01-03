@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Advanced
+* [Day 69 - Blog Capstone Project (Part 4 - Adding Users)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-069)
 * [Day 68 - Flask Authentication](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-068)
 * [Day 67 - Blog Capstone Project (Part 3 - RESTful Routing)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-067)
 * [Day 66 - Create a RESTful API](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-066)
