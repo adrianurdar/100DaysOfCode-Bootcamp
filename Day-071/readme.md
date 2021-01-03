@@ -12,4 +12,8 @@
 
 **Screenshots:**
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-071/screenshots/Screen%20Shot%202021-01-03%20at%205.51.46%20PM.png)
+
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-071/screenshots/Screen%20Shot%202021-01-03%20at%205.51.54%20PM.png)
+
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-071/screenshots/Screen%20Shot%202021-01-03%20at%205.52.01%20PM.png)
