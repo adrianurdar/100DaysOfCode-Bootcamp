@@ -3,7 +3,8 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Advanced
-* [Day 71 - Analysing the Post-University Salaries of Graduates by Major](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-071)
+* [Day 72 - Analyse the Popularity of Different Programming Languages over Time](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-072)
+* [Day 71 - Analyse the Post-University Salaries of Graduates by Major](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-071)
 * [Day 70 - Deploying Web Applications With Digital Ocean](https://adrian-flask-blog.herokuapp.com/)
 * [Day 69 - Blog Capstone Project (Part 4 - Adding Users)](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-069)
 * [Day 68 - Flask Authentication](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-068)
