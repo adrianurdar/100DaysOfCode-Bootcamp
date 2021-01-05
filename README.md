@@ -2,6 +2,9 @@
 All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
+### Professional Portfolio
+* [Day 81 - Text to Morse Converter](https://github.com/adrianurdar/Professional-Portfolio/tree/main/01-Text-to-Morse-Converter)
+
 ### Advanced
 * [Day 73 - Analyse a Dataset of LEGO Pieces](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-073)
 * [Day 72 - Analyse the Popularity of Different Programming Languages over Time](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-072)
