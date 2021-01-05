@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Advanced
+* [Day 73 - Analyse a Dataset of LEGO Pieces](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-073)
 * [Day 72 - Analyse the Popularity of Different Programming Languages over Time](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-072)
 * [Day 71 - Analyse the Post-University Salaries of Graduates by Major](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-071)
 * [Day 70 - Deploying Web Applications With Digital Ocean](https://adrian-flask-blog.herokuapp.com/)
