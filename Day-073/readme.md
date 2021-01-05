@@ -52,22 +52,22 @@
 
 **Screenshots:**
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-073/screenshots/screencapture-colab-research-google-drive-1jgoTgaOxbtSLnte3P63VlZ4fQ8jVxLY5-2021-01-04-08_59_39.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-073/screenshots/screencapture-colab-research-google-drive-1jgoTgaOxbtSLnte3P63VlZ4fQ8jVxLY5-2021-01-04-08_59_55.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-073/screenshots/screencapture-colab-research-google-drive-1jgoTgaOxbtSLnte3P63VlZ4fQ8jVxLY5-2021-01-04-09_00_09.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-073/screenshots/screencapture-colab-research-google-drive-1jgoTgaOxbtSLnte3P63VlZ4fQ8jVxLY5-2021-01-04-09_00_27.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-073/screenshots/screencapture-colab-research-google-drive-1jgoTgaOxbtSLnte3P63VlZ4fQ8jVxLY5-2021-01-04-09_06_59.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-073/screenshots/screencapture-colab-research-google-drive-1jgoTgaOxbtSLnte3P63VlZ4fQ8jVxLY5-2021-01-04-09_07_17.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-073/screenshots/screencapture-colab-research-google-drive-1jgoTgaOxbtSLnte3P63VlZ4fQ8jVxLY5-2021-01-05-08_40_52.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-073/screenshots/screencapture-colab-research-google-drive-1jgoTgaOxbtSLnte3P63VlZ4fQ8jVxLY5-2021-01-05-08_55_22.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-073/screenshots/screencapture-colab-research-google-drive-1jgoTgaOxbtSLnte3P63VlZ4fQ8jVxLY5-2021-01-05-09_08_00.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-073/screenshots/screencapture-colab-research-google-drive-1jgoTgaOxbtSLnte3P63VlZ4fQ8jVxLY5-2021-01-05-09_19_09.png)
