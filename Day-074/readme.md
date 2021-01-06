@@ -48,4 +48,10 @@
 
 **Screenshots:**
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-074/screenshots/screencapture-colab-research-google-drive-18bltVP1k8e03WdPOgEDTty4I0SlUgZ93-2021-01-06-09_13_28.png)
+
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-074/screenshots/screencapture-colab-research-google-drive-18bltVP1k8e03WdPOgEDTty4I0SlUgZ93-2021-01-06-09_28_37.png)
+
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-074/screenshots/screencapture-colab-research-google-drive-18bltVP1k8e03WdPOgEDTty4I0SlUgZ93-2021-01-06-13_20_21.png)
+
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-074/screenshots/screencapture-colab-research-google-drive-18bltVP1k8e03WdPOgEDTty4I0SlUgZ93-2021-01-06-13_42_03.png)
