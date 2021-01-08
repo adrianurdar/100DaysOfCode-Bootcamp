@@ -46,3 +46,7 @@
 
 * Create a box plot that shows the number of Installs for free versus paid apps. How does the median number of 
   installations compare? Is the difference large or small?
+  
+**Screenshots:**
+
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-075/screenshots/screencapture-colab-research-google-drive-1c-8VHHq0Wa5n90C-MPskHZEroP6i5nPE-2021-01-06-14_41_20.png)
