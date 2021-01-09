@@ -6,6 +6,7 @@ All the projects from 100DaysOfCode Bootcamp
 * [Day 81 - Text to Morse Converter](https://github.com/adrianurdar/Professional-Portfolio/tree/main/01-Text-to-Morse-Converter)
 
 ### Advanced
+* [Day 76 - Computation with NumPy and N Dimensional Arrays](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-076)
 * [Day 75 - Analyse the Android App Store](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-075)
 * [Day 74 - Google Trends and Data Visualisation](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-074)
 * [Day 73 - Analyse a Dataset of LEGO Pieces](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-073)
