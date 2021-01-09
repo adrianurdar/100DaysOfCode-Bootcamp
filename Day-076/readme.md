@@ -43,6 +43,6 @@
        
 **Screenshots:**
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-076/screenshots/screencapture-colab-research-google-drive-1kCcwZf4JArALwgz5UszKNIdt5WOVQVHi-2021-01-09-09_31_31.png)
 
-![]()
+![](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/blob/main/Day-076/screenshots/screencapture-colab-research-google-drive-1kCcwZf4JArALwgz5UszKNIdt5WOVQVHi-2021-01-09-09_31_55.png)
