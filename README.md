@@ -6,6 +6,7 @@ All the projects from 100DaysOfCode Bootcamp
 * [Day 81 - Text to Morse Converter](https://github.com/adrianurdar/Professional-Portfolio/tree/main/01-Text-to-Morse-Converter)
 
 ### Advanced
+* [Day 79 - Dr Semmelweis Handwashing Discovery](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-079)
 * [Day 78 - Nobel Prize Analysis](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-078)
 * [Day 77 - Seaborn and Linear Regression](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-077)
 * [Day 76 - Computation with NumPy and N Dimensional Arrays](https://github.com/adrianurdar/100DaysOfCode-Bootcamp/tree/main/Day-076)
