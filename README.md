@@ -3,7 +3,8 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Professional Portfolio
-* [Day 81 - Text to Morse Converter](https://github.com/adrianurdar/Professional-Portfolio/tree/main/01-Text-to-Morse-Converter)
+* [Day 82 - Web Development: Portfolio Website](https://adiurdar.com)
+* [Day 81 - Python Scripting: Text to Morse Converter](https://github.com/adrianurdar/Professional-Portfolio/tree/main/01-Text-to-Morse-Converter)
 
 ### Advanced
 * Day 80 - Predict House Prices
