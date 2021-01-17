@@ -3,6 +3,7 @@ All the projects from 100DaysOfCode Bootcamp
 
 ## Summary (desc)
 ### Professional Portfolio
+* [Day 83 - Python Scripting: Tic Tac Toe](https://github.com/adrianurdar/Automate-The-Boring-Stuff/tree/main/Tic-Tac-Toe)
 * [Day 82 - Web Development: Portfolio Website](https://adiurdar.com)
 * [Day 81 - Python Scripting: Text to Morse Converter](https://github.com/adrianurdar/Professional-Portfolio/tree/main/01-Text-to-Morse-Converter)
 
